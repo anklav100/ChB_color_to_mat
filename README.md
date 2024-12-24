@@ -142,4 +142,4 @@ def assign_textures_to_meshes_from_folder(folder_path):
 texture_folder_path = r"D:\3D\Work_project\ChillBAse\Country Side Beach\sp\Textur\Color_ID"
 
 # Запуск функции
-assign_textures_to_meshes_from_folder(texture_folder_p
+assign_textures_to_meshes_from_folder(texture_folder_path)
